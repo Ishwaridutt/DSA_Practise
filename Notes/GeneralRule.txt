@@ -1,0 +1,28 @@
+
+
+https://www.geeksforgeeks.org/how-to-approach-a-coding-problem/
+
+
+These steps you need to follow while solving a problem:
+
+– Understand the question, read it 2-3 times.
+– Take an estimate of the required complexity.
+– find, edge cases based on the constraints.
+– find a brute-force solution. ensure it will pass.
+– Optimize code, ensure, and repeat this step.
+– Dry-run your solution(pen & paper) on the test cases and edge cases.
+– Code it and test it with the test cases and edge cases.
+– Submit solution. Debug it and fix it, if the solution does not work.
+
+
+While going through the problem you need to ask a few questions yourself…
+
+Did you understand the problem fully?
+Would you be able to explain this question to someone else?
+What and how many inputs are required?
+What would be the output for those inputs
+Do you need to separate out some modules or parts from the problem?
+Do you have enough information to solve that question? If not then read the question again or clear it to the interviewer.
+
+
+
