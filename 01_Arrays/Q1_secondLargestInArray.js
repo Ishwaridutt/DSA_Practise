@@ -68,7 +68,7 @@ function optimalSolution(arr) {
 }
 
 
-let input = [3, 4, 5, 6, 7, 7, 8, 9, 8, 5, 4, 9, 9, 12, 10 ]
+let input = [ 3, 4, 5, 3, 6, 7, 7, 8, 9, 3, 8, 5, 4, 9, 9, 12, 10 ]
 
 // let ans = bruteForceSolution(input);
 // let ans = betterSolution(input);

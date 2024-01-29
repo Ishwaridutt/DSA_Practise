@@ -23,7 +23,19 @@ what did you learn ?
 ----------------------------------------------------
 
 
+Q4: Left rotate array by 1 place without using extra space
+what did you learn ?
 
+
+----------------------------------------------------
+
+
+Q5: Left rotate array by D places without using extra space
+Q5: Right rotate array by D places without using extra space
+what did you learn ?
+
+
+----------------------------------------------------
 
 
 
